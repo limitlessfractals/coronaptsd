@@ -2,6 +2,7 @@ import React from 'react'
 
 const Contact = (props) => (
     <section id="contact">
+        {/*}
         <div className="inner">
             <section>
                 <form method="post" action="#">
@@ -49,6 +50,7 @@ const Contact = (props) => (
                 </section>
             </section>
         </div>
+        */}
     </section>
 )
 
