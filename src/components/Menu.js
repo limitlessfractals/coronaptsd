@@ -11,7 +11,7 @@ const Menu = (props) => (
             </ul>
             <ul className="actions vertical">
                 <li><a href="#" className="button special fit">Get Started</a></li>
-                <li><a href="https://discord.gg/kHtzEJ8" className="button fit">Discord Server</a></li>
+                <li><a href="https://discord.gg/tWCrm5T" className="button fit">Discord Server</a></li>
             </ul>
         </div>
         <a className="close" onClick={props.onToggleMenu} href="javascript:;">Close</a>
