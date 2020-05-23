@@ -19,8 +19,8 @@ class HomeIndex extends React.Component {
                 <Helmet
                     title="Coronavirus and PTSD"
                     meta={[
-                        { name: 'description', content: 'Sample' },
-                        { name: 'keywords', content: 'sample, something' },
+                        { name: 'description', content: 'Community and resources for dealing with PTSD as a result of the COVID-19 pandemic' },
+                        { name: 'keywords', content: 'COVID-19, covid19, coronavirus, corona, virus, pandemic, PTSD, posttraumatic stress syndrome' },
                     ]}
                 >
                 </Helmet>
